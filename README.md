@@ -22,4 +22,4 @@ made by @alivegamer0099
 
 I wrote this code about one year ago, and it may no longer work as expected. Due to possible changes in dependencies, system updates, or other factors, it might malfunction or produce errors. 
 
-Feel free to contribute in this project ☕ i will commit it ASAP ❤️
+Feel free to contribute in this project ☕❤️
