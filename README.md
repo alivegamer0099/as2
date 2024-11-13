@@ -18,7 +18,7 @@ By using this code, you acknowledge and agree to the following:
 
 By continuing to use this script, you acknowledge that you are fully responsible for your actions and their outcomes.
 
-made by @alivegamer0099
+Developed by @alivegamer0099
 
 I wrote this code about one year ago, and it may no longer work as expected. Due to possible changes in dependencies, system updates, or other factors, it might malfunction or produce errors. 
 
