@@ -1,0 +1,5 @@
+discord.py
+requests
+pycryptodome
+pillow
+pywin32
